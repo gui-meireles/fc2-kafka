@@ -1,4 +1,3 @@
-🛠️ Projeto em construção 🛠️
 # Funcionamento do Kafka
 
 ## Primeiros passos
