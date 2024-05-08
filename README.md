@@ -77,4 +77,5 @@
 
 <br>
 
+- Abaixo você terá todos os registros da partição 0, com os headers, timestamp, key, value
 ![confluent_part3](https://github.com/gui-meireles/fc2-kafka/assets/88151632/1b0560e2-dbde-4aa2-814a-a8a6137ae264)
