@@ -1,4 +1,4 @@
-# Funcionamento do Kafka
+# Funcionamentos básicos do Kafka
 
 ## Primeiros passos
 
