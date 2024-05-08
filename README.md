@@ -70,3 +70,11 @@
 - Clique [aqui](http://localhost:9021/), para abrir o link em seu navegador.
 
 ![confluent_part1](https://github.com/gui-meireles/fc2-kafka/assets/88151632/2481ff12-8e4b-483c-9bdf-af36afeae330)
+
+<br>
+
+![confluent_part2](https://github.com/gui-meireles/fc2-kafka/assets/88151632/996cbfdc-bd07-496b-95ac-c2ee2ac43a68)
+
+<br>
+
+![confluent_part3](https://github.com/gui-meireles/fc2-kafka/assets/88151632/1b0560e2-dbde-4aa2-814a-a8a6137ae264)
