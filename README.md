@@ -69,3 +69,4 @@
 
 - Clique [aqui](http://localhost:9021/), para abrir o link em seu navegador.
 
+![confluent_part1](https://github.com/gui-meireles/fc2-kafka/assets/88151632/2481ff12-8e4b-483c-9bdf-af36afeae330)
